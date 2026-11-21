@@ -68,7 +68,7 @@ _The order I learned in finance: agree on the number, then build on it._
   <br>Building the People Data Hub in Metabase, validated against the HRMS.
 - **Business Intelligence Analyst**, Amplitude Laser Group, Pessac &bull; _2025_
   <br>Moved after-sales reporting from spreadsheets to BigQuery and Looker Studio.
-- **Project Accountant to Finance Officer**, Lintas Intim Group, Indonesia &bull; _2015 to 2024_
+- **Project Finance and Accounting Officer**, Lintas Intim Group, Indonesia &bull; _2015 to 2024_
   <br>Monthly progress reports that released government contract payments.
 - **Tax Specialist**, Lintas Intim Group, Ambon &bull; _2010 to 2014_
   <br>Tax returns and reporting between departments.
