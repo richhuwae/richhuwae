@@ -5,7 +5,7 @@ _Data analyst with a finance background. Most analysts learn to read a P&L. I bu
 <details id=0 open>
 <summary><h2>👋 About me</h2></summary>
 
-<img src="https://github.com/richhuwae.png" alt="Edwin Richard Huwae" width="160" align="right">
+<img src="https://edwinrichardhuwae.com/assets/edwin-square-460.jpg" alt="Edwin Richard Huwae" width="160" align="right">
 
 I build the dashboards and KPI definitions that turn finance and people data into numbers a business trusts.
 
