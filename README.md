@@ -5,14 +5,12 @@ _Data analyst with a finance background. Most analysts learn to read a P&L. I bu
 <details id=0 open>
 <summary><h2>👋 About me</h2></summary>
 
-<img src="https://edwinrichardhuwae.com/assets/edwin-square-460.jpg" alt="Edwin Richard Huwae" width="160" align="right">
-
-I build the dashboards and KPI definitions that turn finance and people data into numbers a business trusts.
+I turn finance and people data into numbers a business can trust, using SQL, Python and Metabase.
 
 - **Where**: Paris, France
 - **Now**: People Strategy Business Analyst at Doctolib, and MSc Data Analytics for Business at KEDGE
 - **Looking for**: data and BI analyst roles from **January 2027**, in Paris or remote. Happy to talk sooner.
-- **Background**: 9 years running project finance on construction sites, 2 analytics internships (Amplitude and Doctolib)
+- **Background**: 9 years running project finance on construction sites, 2 analytics roles, in people analytics and business intelligence (Doctolib and Amplitude Laser Group)
 - **Proud of**: 🏆 1st place at the CGI France × BNP Paribas hackathon
 
 🌐 [edwinrichardhuwae.com](https://edwinrichardhuwae.com) &bull; 💼 [LinkedIn](https://www.linkedin.com/in/edwinhuwae/) &bull; 📄 [CV (PDF)](https://edwinrichardhuwae.com/assets/ERH_Resume.pdf) &bull; ✉️ [edwinrichardhuwae@gmail.com](mailto:edwinrichardhuwae@gmail.com)
